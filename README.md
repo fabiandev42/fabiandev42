@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fabián Escalona aka @fabiandev42
+- 👀 I’m interested in coding and cryptocurrencies
+- 🌱 I’m constantly learning new things in the coding and cryptocurrency space
+- 💞️ I’m looking to work on open source projects
+- 📫 You can reach me and know more about me on https://fabiandev42.github.io 
